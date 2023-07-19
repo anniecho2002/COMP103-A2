@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Stroke
+comment0.text=\n\ Object\ containing\ the\ record\ of\ a\ draw\ action\n
+comment1.params=colorLine\ width
+comment1.target=Stroke(java.awt.Color,\ double)
+comment1.text=\n\ Constructor\n
+comment2.params=xVal\ yVal
+comment2.target=void\ addPoint(double,\ double)
+comment2.text=\n\ Adds\ an\ x\ and\ y\ value\ that\ the\ stroke\ has\n
+comment3.params=
+comment3.target=java.awt.Color\ getColor()
+comment3.text=\n\ Returns\ the\ color\ of\ the\ stroke\n
+comment4.params=
+comment4.target=double\ getLineWidth()
+comment4.text=\n\ Returns\ the\ line\ width\ of\ the\ stroke\n
+comment5.params=
+comment5.target=void\ redraw()
+comment5.text=\n\ Redraws\ the\ line\n
+numComments=6
